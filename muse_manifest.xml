@@ -1,0 +1,126 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mkedivided.tk" resolutions="1x" timestamp="1642398409761">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="505013529" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="mke.mp4" crc="255903827" seo="true" mt="1642210292000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u273-6.png" crc="4020541022" ref="index"/>
+    <file name="u343-4.png" crc="157747890" ref="index"/>
+    <file name="u1366-4.png" crc="86564390" ref="index"/>
+    <file name="demographics (2).png" crc="350278429" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u483-4.png" crc="3978250508" ref="index"/>
+    <file name="u486-4.png" crc="521026421" ref="index"/>
+    <file name="u598-4.png" crc="3916748482" ref="index"/>
+    <file name="red gradient_1.jpg" crc="319872034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u623-4.png" crc="4061555850" ref="index"/>
+    <file name="u666-4.png" crc="436897866" ref="index"/>
+    <file name="map.jpg" crc="429542145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u669-4.png" crc="3916748482" ref="index"/>
+    <file name="hispanic gradient.jpg" crc="57058109" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u672-4.png" crc="4048870299" ref="index"/>
+    <file name="u675-4.png" crc="3942955049" ref="index"/>
+    <file name="hispanicmap.jpg" crc="354408775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="financial inequality bkg.png" crc="4003842894" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u761-4.png" crc="3979139909" ref="index"/>
+    <file name="wealthtext.gif" crc="478026014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u773-4.png" crc="3833070428" ref="index"/>
+    <file name="ezgifcom-gif-maker.gif" crc="33152258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u786-9.png" crc="4108031867" ref="index"/>
+    <file name="educational inequality bkg.png" crc="3766614702" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u924-4.png" crc="88915809" ref="index"/>
+    <file name="u1012-4.png" crc="3939959275" ref="index"/>
+    <file name="u1015-4.png" crc="4084272316" ref="index"/>
+    <file name="u1018-4.png" crc="182104833" ref="index"/>
+    <file name="milwaukee v birmingham-1.jpg" crc="4063708394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1031-10.png" crc="4189904859" ref="index"/>
+    <file name="crime and incarceration bkg.png" crc="340270854" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1054-4.png" crc="4088541276" ref="index"/>
+    <file name="u1106-4.png" crc="13013113" ref="index"/>
+    <file name="u1107-4.png" crc="4088541276" ref="index"/>
+    <file name="u1159-4.png" crc="3916792438" ref="index"/>
+    <file name="u1226-9.png" crc="259210162" ref="index"/>
+    <file name="hero_2.jpg" crc="304509891" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1053-4.png" crc="313666928" ref="index"/>
+    <file name="u1223-4.png" crc="4075659821" ref="index"/>
+    <file name="u1243-4.png" crc="236451493" ref="index"/>
+    <file name="u1246-4.png" crc="47664830" ref="index"/>
+    <file name="u1249-4.png" crc="49268195" ref="index"/>
+    <file name="u1252-4.png" crc="24694634" ref="index"/>
+    <file name="u1255-4.png" crc="4247655930" ref="index"/>
+    <file name="untitled-2.jpg" crc="50434263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.jpg" crc="200554203" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1278-4.png" crc="245361054" ref="index"/>
+    <file name="u1279-4.png" crc="3963691106" ref="index"/>
+    <file name="u1284-9.png" crc="4291317885" ref="index"/>
+    <file name="u1287-4.png" crc="400349780" ref="index"/>
+    <file name="0120_jackson-square_edited.jpg" crc="4150700040" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="privateschool-58b5b2173df78cdcd8a980c7_edited.jpg" crc="330351735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p5252572b_sm_edited.jpg" crc="170789026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="80721bb7-cd48-11e6-b490-0f437cfe09ba_edited.jpg" crc="141228437" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20180119_103338_t800_edited.jpg" crc="214665285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_tk-rhq3azaabqvgcdx2v7q_edited.jpg" crc="366211256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1544-4-a.png" crc="526303507" ref="index"/>
+    <file name="u1547-4.png" crc="274902303" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u1430-r.png" crc="130537980" ref="index"/>
+    <file name="u1435-r.png" crc="3853053194" ref="index"/>
+    <file name="u1438-r.png" crc="4129360428" ref="index"/>
+    <file name="u1441-r.png" crc="3780700512" ref="index"/>
+    <file name="u1444-r.png" crc="374082105" ref="index"/>
+    <file name="u1447-r.png" crc="3758896063" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4089013386" seo="true" mt="1642398363613" redirect="true"/>
+</manifest>
